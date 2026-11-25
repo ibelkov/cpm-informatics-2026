@@ -18,10 +18,11 @@
 
 ## По классам
 
-- [8 класс](8th-grade/README.md)
-- [9 класс](9th-grade/README.md)
+- [8 класс](08th-grade/README.md)
+- [9 класс](09th-grade/README.md)
 - [10 класс](10th-grade/README.md)
 - [11 класс](11th-grade/README.md)
+
 <!-- 
 ## 8 класс
 

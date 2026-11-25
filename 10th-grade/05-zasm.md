@@ -4,9 +4,11 @@ ZASM - учебный язык программирования.
 
 Ссылки:
 
-- [Документация](https://github.com/SilverFoxxxy/zvm)
+- [Документация](https://github.com/ibelkov/zvm)
 
 - [Контест](https://contest.yandex.ru/contest/102002/)
+
+- [Онлайн-интерпретатор](https://code-info.ru/zvm/)
 
 Листочки:
 
